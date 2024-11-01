@@ -1,0 +1,1 @@
+<h1><?= __('Social media management', 'social-links-icons'); ?></h1>
